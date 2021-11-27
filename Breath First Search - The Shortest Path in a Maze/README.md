@@ -9,7 +9,7 @@ I have coded a program that finds the shortest path in a maze using the Breath F
 * An ```x``` represents an obstacle. You may not travel through this block.
 * An ```S``` represents the start.
 * A ```G``` represents the goal.
-* The output should be the maze with * characters along the shortest path from the start to the goal. 1 If there is no path between the start and goal, then the output should say ```No Path```.
+* The output should be the maze with ```*``` characters along the shortest path from the start to the goal. 1 If there is no path between the start and goal, then the output should say ```No Path```.
 
 ## Sample Input:
 ```
