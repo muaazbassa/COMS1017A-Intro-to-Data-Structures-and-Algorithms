@@ -2,8 +2,8 @@
 
 I have coded a sudoku solver for a 9x9, 16x16 and 25x25 grid
 * The program takes input via the terminal
-* Zeros are spaces that need to be filled
-* The program outputs the solved sudoku or "No Solution" where applicable
+* ```0``` are spaces that need to be filled
+* The program outputs the solved sudoku or ```No Solution``` where applicable
 
 The Sudoku Solvers use Hidden/Naked Singles Technique to help speed up the solving of the problem. It was used to make the Time Complexity better.
 
