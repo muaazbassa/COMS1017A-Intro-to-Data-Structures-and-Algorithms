@@ -8,7 +8,7 @@ I have coded a sudoku solver for a 9x9, 16x16 and 25x25 grid
 The Sudoku Solvers use Hidden/Naked Singles Technique to help speed up the solving of the problem. It was used to make the Time Complexity better.
 
 Sample Input:
-```c++
+```
 0 4 0 0 0 0 1 7 9
 0 0 2 0 0 8 0 5 4
 0 0 6 0 0 5 0 0 8
@@ -20,7 +20,7 @@ Sample Input:
 9 2 8 0 0 0 0 6 0 
 ```
 Sample Output:
-```c++
+```
 8 4 5 6 3 2 1 7 9
 7 3 2 9 1 8 6 5 4
 1 9 6 7 4 5 3 2 8
