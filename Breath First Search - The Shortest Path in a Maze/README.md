@@ -1,5 +1,7 @@
 # Breath First Search - The Shortest Path in a Maze
 
+I have coded a program that finds the shortest path in a maze using the Breath First Search algorithm
+
 * The program takes in input via the terminal 
 * The first line will contain 2 integers, ```m``` and ```n```, separated by a space. These numbers represent the number of rows and columns in the grid respectively.
 * There will then be ```m``` lines each with n columns that represent the maze.
