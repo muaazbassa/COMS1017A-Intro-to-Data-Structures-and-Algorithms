@@ -2,9 +2,9 @@
 
 This repository has the projects I have done in this module
 
-* Sudoku Solver Project
+* Sudoku Solver
 
-* Breath First Search (Maze) Project
+* Breath First Search - The Shortest Path in a Maze 
 
-* Huffman Encoding and Decoding Project
+* Huffman Encoding and Decoding
 
