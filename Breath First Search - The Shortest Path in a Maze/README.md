@@ -47,3 +47,5 @@ x  x      Gx *  x
 x  x      ****  x
 xxxxxxxxxxxxxxxxx
 ```
+## Acknowledgement
+Dr Richard Klein gave us what the program should accept as input and what it should do, he also gave the sample input and sample output
