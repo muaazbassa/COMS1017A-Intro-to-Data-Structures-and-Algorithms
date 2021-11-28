@@ -1,6 +1,6 @@
 # COMS1017A-Intro-to-Data-Structures-and-Algorithms
 
-This repository has the projects I have done in this module
+This repository has the projects and labs I have done in this module
 
 * Sudoku Solver
 
