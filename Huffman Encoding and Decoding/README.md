@@ -14,11 +14,10 @@ out the encoded string. Following that, print out the number of bits used if cha
 UTF-8 (compatible with ASCII). The next line should contain the number of bits used in the encoded string.
 The input string will only ever contain lower case letters and a spaces. No other ASCII characters will be
 given.
-Based on the she sells sea shells by the sea shore example above, here is some sample
-input and output:
-Sample Input:
+
+### Sample Input:
 `she sells sea shells by the sea shore`
-Sample Output:
+### Sample Output:
 `b o r t y a h l e s
 1 1 1 1 1 2 4 4 7 7 8
 100100011010000110111011010001111111010010000110111011011101011100110111101010001101000111111101001011101111110000
@@ -31,11 +30,11 @@ characters. Once these lines have been read, the Huffman Tree can be reconstruct
 same process from the encoder. Next your program should read the line containing the encoded string. Your
 program needs to decode the string by using the Huffman tree and output the decoded text followed by a new
 line. The program can ignore all other input.
-Sample Input:
+### Sample Input:
 `b o r t y a h l e s
 1 1 1 1 1 2 4 4 7 7 8
 100100011010000110111011010001111111010010000110111011011101011100110111101010001101000111111101001011101111110000
 Total Bits (Original):296
 Total Bits (Coded):114`
-Sample Output:
+### Sample Output:
 `she sells sea shells by the sea shore`
