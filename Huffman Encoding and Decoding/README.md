@@ -46,3 +46,6 @@ Total Bits (Coded):114
 ```
 she sells sea shells by the sea shore
 ```
+
+## Acknowledgement
+Dr Richard Klein gave us what the program should accept as input and what it should do, he also gave the sample input and sample output
