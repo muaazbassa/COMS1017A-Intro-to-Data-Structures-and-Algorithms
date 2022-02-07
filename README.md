@@ -8,3 +8,6 @@ This repository has the projects and labs I have done in this module
 
 * [Huffman Encoding and Decoding](https://github.com/muaazbassa/COMS1017A-Intro-to-Data-Structures-and-Algorithms/tree/main/Huffman%20Encoding%20and%20Decoding)
 
+# Plagarism 
+Please do not copy any of the code, rather use it to understand and apply your knowlegde to make your own program
+
