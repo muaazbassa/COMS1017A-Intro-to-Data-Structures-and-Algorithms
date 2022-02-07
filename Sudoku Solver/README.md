@@ -31,3 +31,6 @@ Sample Output:
 5 7 4 1 8 6 2 9 3
 9 2 8 3 5 7 4 6 1
 ```
+
+## Acknowledgement
+Dr Richard Klein gave us what the program should accept as input and what it should do, he also gave the sample input and sample output
