@@ -1,4 +1,10 @@
-Encoder
+# Huffman Encoding and Decoding
+
+I have coded a program that encodes and decodes messages using the Huffman technique.
+
+* The program takes in input via the terminal 
+
+## Encoder
 The first program should accept a string from stdin. It should then calculate the frequency of each letter and
 build the binary tree necessary to perform Huffman encoding. When calculating the priority of a leaf, it should
 be done by the frequency, ties should then be broken in increasing order of the relevant ASCII/UTF-8 code.
@@ -18,7 +24,7 @@ Sample Output:
 100100011010000110111011010001111111010010000110111011011101011100110111101010001101000111111101001011101111110000
 Total Bits (Original):296
 Total Bits (Coded):114`
-Decoder
+## Decoder
 The second program should read the first two lines of text from the first programs output. It first reads a line
 with all the characters in increasing order or priority. The next line has the respective frequencies for these
 characters. Once these lines have been read, the Huffman Tree can be reconstructed by using the exact
