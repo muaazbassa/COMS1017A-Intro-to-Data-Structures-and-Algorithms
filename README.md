@@ -1,6 +1,6 @@
 # COMS1017A-Intro-to-Data-Structures-and-Algorithms
 
-This repository has the projects and labs I have done in this module
+This repository has the projects and labs I have done in this module at the University of the Witwatersrand, Johannesburg. Please note these are for educational purposes
 
 * [Sudoku Solver](https://github.com/muaazbassa/COMS1017A-Intro-to-Data-Structures-and-Algorithms/tree/main/Sudoku%20Solver)
 
