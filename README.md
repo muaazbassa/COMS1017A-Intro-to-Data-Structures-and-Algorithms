@@ -1,4 +1,4 @@
-# COMS1017A-Intro-to-Data-Structures-and-Algorithms
+# COMS1017A - Intro to Data Structures and Algorithms
 
 This repository has the projects and labs I have done in this module at the University of the Witwatersrand, Johannesburg. Please note these are for educational purposes
 
